@@ -1,2 +1,2 @@
 # Stepwise-regression
-Future selection by stepwise regression
+Feature selection by stepwise regression
